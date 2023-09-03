@@ -2,6 +2,10 @@
 
 A python tool for grab digikala's (fake) 100% discount codes
 
+English:
+
+This is a python script written to scrap thousands of images from digikala pages and find some discount codes by visually identifying them using OpenCV.
+
 فارسی:
 
 سلام !
@@ -41,6 +45,3 @@ D حتما شده دیگه آقا شبتون بخیر خدانگهدار (قطع
 و حدس بزنید چیشد ؟ کد شکار شده بود و بازم تا 15-16 ساعت کد رو آزاد نشون می دادند.
 
 و این بود ایونت رویایی دیجی کالا دیگه قضاوت با خودتون
-
-English:
-This is a python script written to scrap thousands of images from digikala pages and find some discount codes by visually identifying them using OpenCV.
