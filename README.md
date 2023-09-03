@@ -9,4 +9,7 @@ A python tool for grab digikala's (fake) 100% discount codes
 زمانی که من این موضوع رو فهمیدم یکی از کد ها پیدا شده بود و 3-4 تای دیگه باقی مونده بود، من میدونستم گشتن بین 50-60 هزار یا بیشتر عکس دیوونگیه و نمیشه سر تایم پیداش کرد.
 نمونه عکس هایی که کد تخفیف توش جاساز شده بود :
 
+![Fake digikala](https://github.com/Haj4li/Python-OpenCV-DigiKala-Black-Friday/blob/main/pic1.jpg)
+![Fake digikala](https://github.com/Haj4li/Python-OpenCV-DigiKala-Black-Friday/blob/main/pic2.jpg)
+
 پس یه اسکریپت کوچولو پایتون نوشتم که صفحات مختلف دیجی کالا رو شخم میزد و با کتابخونه بینایی ماشین پایتون دنبال کد تخفیف میگشت.
